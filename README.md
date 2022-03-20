@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhabbabZakaria
-- 👀 I’m interested in Deep Learning.
-- 🌱 I’m currently learning Writer Identification by PyTorch
+- 👀 I’m interested in Deep Learning, Machine Learning, Reinforcement Learning, Quantitative Analysis
+- 🌱 I’m currently working on DRL in Finance
 - 💞️ I’m looking to collaborate on any Deep Learning project
 - 📫 How to reach me - mail me in zakariak.engg@gmail.com
 
