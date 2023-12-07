@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @KhabbabZakaria
-- 👀 I’m interested in Competitive Coding, Software Development inclduing Django, Deep Learning, Machine Learning, Reinforcement Learning, Docker, Quantitative Analysis, Statistics, Mathematics.
-- 🌱 I’m currently working as a Software Developer in THI Germany. I am working on Docker, Python Developments including Flask, PHP, TypeScripts, etc. Most of the works are also posted in Private Repositories and/or the teams' private GitLab, GitHub pages.
-- 💞️ I’m looking to collaborate on any Deep Learning project or Software Development
-- 📫 How to reach me - mail me in zakariak.engg@gmail.com
+![212748830-4c709398-a386-4761-84d7-9e10b98fbe6e](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/d749e355-208b-4c27-b61b-00af4a9c4677)
 
-<!---
-KhabbabZakaria/KhabbabZakaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
