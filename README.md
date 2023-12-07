@@ -5,4 +5,5 @@ I love to code. It feels like there are unimaginable things you can do with codi
 ### 🧑‍💻Working at Technische Hochschule Ingolstadt 
 
 #### Connect with me:
-![235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/4708c439-4db2-4624-a46c-9820decca14c)
+![icons8-linkedin-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/1519df99-2cf8-475d-aef5-6a7382119874)
+
