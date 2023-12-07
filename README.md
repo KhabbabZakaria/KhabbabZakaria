@@ -39,6 +39,3 @@ I love to code. It feels like there are unimaginable things you can do with codi
 
 
 
-```python 
-your_code = do_some_stuff
-```
