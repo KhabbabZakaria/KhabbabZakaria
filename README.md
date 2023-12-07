@@ -7,6 +7,7 @@ I love to code. It feels like there are unimaginable things you can do with codi
 
 <hr style="border:2px solid gray">
 #### Connect with me:
+
 ![icons8-linkedin-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/1519df99-2cf8-475d-aef5-6a7382119874)
 
 <hr style="border:2px solid gray">
