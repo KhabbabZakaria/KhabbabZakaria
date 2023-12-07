@@ -4,4 +4,4 @@
 ## Hi there, I am Khabbab Zakaria, Software Developer and Machine Learning Engineer.
 I love to code. It feels like there are unimaginable things you can do with coding, you can go beyond human imagination!
 
-# Software Developer and Machine Learning Engineer at Technische Hochschule Ingolstadt 
+# Working at Technische Hochschule Ingolstadt 
