@@ -15,8 +15,8 @@ I love to code. It feels like there are unimaginable things you can do with codi
 <hr style="border:2px solid gray">
 
 #### Coding Languages and Tools:
-![icons8-python-64](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/0ba89d06-20b6-4af3-a9d2-bb0a5e99e95e)
+![icons8-python-100](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/0e318265-14be-445f-9aa5-1eb9f145d2c4)
 ![icons8-javascript-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/b3baec01-8137-42a4-a810-0bed3a16598d)
 ![icons8-html-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/9536d2fc-abf3-44c3-973a-c6565ccbd9e6)
-![icons8-css-100](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/71cf24a6-22bd-497e-a957-f16a8ad9853b)
+![icons8-css-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/376fc2a3-0d76-42fb-af1e-950c1846d588)
 ![icons8-docker-64](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/674eacfa-d5d5-47ca-a226-66359d92ae29)
