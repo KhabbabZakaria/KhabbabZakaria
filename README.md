@@ -8,7 +8,8 @@ I love to code. It feels like there are unimaginable things you can do with codi
 <hr style="border:2px solid gray">
 
 #### Connect with me:
-![icons8-linkedin-48]([https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/5cad5c4e-c0c7-4678-8e08-bd6278b8fb83](https://www.linkedin.com/in/khabbabzakaria/)https://www.linkedin.com/in/khabbabzakaria/)
+[![icons8-linkedin-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/7cd1e20c-d7ce-4d26-9288-a3855eb3b8fa)
+](https://www.linkedin.com/in/khabbabzakaria/)
 
 
 <hr style="border:2px solid gray">
