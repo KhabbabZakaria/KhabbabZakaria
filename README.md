@@ -32,6 +32,7 @@ I love to code. It feels like there are unimaginable things you can do with codi
 
 <hr style="border:2px solid gray">
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KhabbabZakaria)]()
 ![My github stats](https://github-readme-stats.vercel.app/api?username=KhabbabZakaria)
 
 
