@@ -23,6 +23,8 @@ I love to code. It feels like there are unimaginable things you can do with codi
 ![icons8-c-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/8aa36c8f-3de5-490c-aa02-a0593d6d4403)
 ![icons8-c++-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/07dcdcea-2c94-4f8c-af7e-89a494408c4f)
 ![icons8-php-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/f4cef8d5-5247-468e-8763-12407e91fcca)
+![icons8-amazon-web-services-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/a84c9de7-9023-4674-acbb-b8c2c487267e)
+![icons8-azure-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/b704a2f7-53c1-4944-97b0-e10dd778d9a7)
 
 
 
