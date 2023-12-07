@@ -20,3 +20,5 @@ I love to code. It feels like there are unimaginable things you can do with codi
 ![icons8-html-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/9536d2fc-abf3-44c3-973a-c6565ccbd9e6)
 ![icons8-css-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/376fc2a3-0d76-42fb-af1e-950c1846d588)
 ![icons8-docker-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/1118ab8b-00ff-4d9f-b727-ed64e5639258)
+![icons8-c-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/8aa36c8f-3de5-490c-aa02-a0593d6d4403)
+![icons8-c++-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/07dcdcea-2c94-4f8c-af7e-89a494408c4f)
