@@ -30,6 +30,9 @@ I love to code. It feels like there are unimaginable things you can do with codi
 ![icons8-linux-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/fd063a92-c5ae-4d01-a692-e146aa40762f)
 ![icons8-macos-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/37e73571-3084-482f-bea4-221f3eaaa9c6)
 
+<hr style="border:2px solid gray">
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=KhabbabZakaria)
 
 
 
