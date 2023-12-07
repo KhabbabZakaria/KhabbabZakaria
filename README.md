@@ -10,7 +10,7 @@ I love to code. It feels like there are unimaginable things you can do with codi
 #### Connect with me:
 [![icons8-linkedin-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/7cd1e20c-d7ce-4d26-9288-a3855eb3b8fa)
 ](https://www.linkedin.com/in/khabbabzakaria/)[![icons8-website-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/c31afb45-9cc4-43c7-8c8b-3ecdfee0e1d3)
-](http://zakawolf.pythonanywhere.com) [![icons8-gmail-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/2e4ebbde-5bdf-4189-9d4e-ee5ca8bb0b83)](zakariak.engg@gmail.com)
+](http://zakawolf.pythonanywhere.com) [![icons8-gmail-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/2e4ebbde-5bdf-4189-9d4e-ee5ca8bb0b83)](mailto:zakariak.engg@gmail.com)
 
 
 
