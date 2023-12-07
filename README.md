@@ -19,4 +19,4 @@ I love to code. It feels like there are unimaginable things you can do with codi
 ![icons8-javascript-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/b3baec01-8137-42a4-a810-0bed3a16598d)
 ![icons8-html-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/9536d2fc-abf3-44c3-973a-c6565ccbd9e6)
 ![icons8-css-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/376fc2a3-0d76-42fb-af1e-950c1846d588)
-![icons8-docker-64](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/674eacfa-d5d5-47ca-a226-66359d92ae29)
+![icons8-docker-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/1118ab8b-00ff-4d9f-b727-ed64e5639258)
