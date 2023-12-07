@@ -28,6 +28,8 @@ I love to code. It feels like there are unimaginable things you can do with codi
 ![icons8-mongodb-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/5fd2e517-a63a-46d2-9341-4ede15f82920)
 ![icons8-vs-code-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/e028ea65-b0ca-46db-83a1-f7ce73b30af6)
 ![icons8-linux-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/fd063a92-c5ae-4d01-a692-e146aa40762f)
+![icons8-macos-48](https://github.com/KhabbabZakaria/KhabbabZakaria/assets/46716277/37e73571-3084-482f-bea4-221f3eaaa9c6)
+
 
 
 
