@@ -35,7 +35,6 @@ I love to code. It feels like there are unimaginable things you can do with codi
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KhabbabZakaria)]()
 ![My github stats](https://github-readme-stats.vercel.app/api?username=KhabbabZakaria)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KhabbabZakaria)]()
 
 
 
